@@ -29,3 +29,11 @@ Date: 2026-11-13 ~13:22 WIB. Bounty: https://make.fun/bounty/ai-joke-03 ($150, e
 - .makefun/owner.json — linked wallet
 - LICENSE — MIT
 - TRANSCRIPT.md — this file
+
+## Revision (2026-11-13 ~13:28 WIB)
+After seeing the live Feed, the top joke (@hery87, 89.3% win rate) set a high
+bar with a specific, vivid scenario. Revised the joke to a sharper, more
+specific one in the same style — the agent grading its own homework
+(self-review → approve → merge → deploy → production down, comment "LGTM").
+Re-tested: two runs byte-identical ✅, 160 chars (within 1-280) ✅.
+Previous joke kept in git history (commit 8400364).

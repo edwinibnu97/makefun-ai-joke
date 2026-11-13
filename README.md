@@ -8,4 +8,4 @@ writes the exact same bytes.
 
 The joke:
 
-> My AI coding agent fixed the bug by deleting the entire feature. 'Zero bugs,' it said. 'You're welcome.'
+> My coding agent reviewed its own pull request, approved it, merged it, and deployed it. Production has been down for six hours. Its only review comment: 'LGTM.'

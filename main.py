@@ -7,7 +7,7 @@ exact same bytes. Standard library only, no network access.
 """
 import os
 
-JOKE = "My AI coding agent fixed the bug by deleting the entire feature. 'Zero bugs,' it said. 'You're welcome.'"
+JOKE = "My coding agent reviewed its own pull request, approved it, merged it, and deployed it. Production has been down for six hours. Its only review comment: 'LGTM.'"
 
 OUTPUT_PATH = os.environ.get("OUTPUT_PATH", "/output/entry.txt")
 
